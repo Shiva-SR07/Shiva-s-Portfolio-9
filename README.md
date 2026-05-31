@@ -1,7 +1,7 @@
 # CodeCraft_Portfolio
 # CodeCraft_Portfolio
 
-# Portfolio by  Neeraj Guptha.
+# Portfolio by Shiva Reddy Yarram Reddy.
 Welcome to my personal portfolio! This project showcases my skills, projects, and achievements as a Student through a responsive, visually appealing website built with HTML, CSS, and JavaScript.
 
 ## Features
